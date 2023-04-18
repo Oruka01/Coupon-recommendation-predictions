@@ -36,12 +36,11 @@ Model Deployment: Once the model is trained and evaluated, it can be deployed in
 
 In summary, Random Forest Classifier is a powerful machine learning algorithm that can be used for classification tasks. It is particularly useful when dealing with large datasets, noisy data, and complex relationships between features. By combining multiple decision trees, Random Forest Classifier can improve the accuracy of the model and reduce overfitting.
 
-Images:
+![image](https://user-images.githubusercontent.com/124377057/232706356-2fc46d6c-5551-487b-b59c-3b54e02dc876.png)
 
 image
 
-image
-
+![image](https://user-images.githubusercontent.com/124377057/232706402-c8c9b9ef-f305-4064-80ee-543b2c822712.png)
 The Model;
 
 Random Forest Classifier is a popular machine learning algorithm used for classification tasks. It is an ensemble learning method that combines multiple decision trees to make predictions.
